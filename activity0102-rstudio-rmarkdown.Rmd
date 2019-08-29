@@ -2,7 +2,12 @@
 title: "Activity 1.2 - RStudio and R Markdown"
 author: "Ethan Brown"
 date: "8/29/2019"
-output: html_document
+output: 
+  html_document: 
+    fig_height: 10
+    fig_width: 10
+    highlight: haddock
+    theme: yeti
 ---
 
 ### Load packages
