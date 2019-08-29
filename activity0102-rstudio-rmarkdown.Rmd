@@ -7,7 +7,7 @@ output:
     fig_height: 10
     fig_width: 10
     highlight: haddock
-    theme: yeti
+    theme: journal
 ---
 
 ### Load packages
